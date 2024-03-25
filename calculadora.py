@@ -9,4 +9,4 @@ altura_tri = float(input("\nQual a altura do triângulo?"))
 peri_tri = base + lado2_tri + lado3_tri
 area_tri = (base * altura_tri)/2
 
-print(f'O triângulo em questão tem um perímetro igual a '{peri_tri}, com uma área de {area_tri}.)
+print(f'O triângulo em questão tem um perímetro igual a {peri_tri}, com uma área de {area_tri}.')
